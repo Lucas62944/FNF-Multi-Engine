@@ -1,0 +1,51 @@
+v1.3.0
+Overhaul
+Centralized all launcher files and settings into a single data/ root directory to keep the project clean.
+
+Addition
+Added data/mods_folder directory as the official path to store, manage, and read all mod folders.
+Added data/executables_mods directory to hold engine binaries, automatically detecting .exe files inside it.
+Added ➕ ADD MOD button dialog integration to directly copy selected mod folders with overwrite checks.
+Added 🗑️ DELETE MOD button with a confirmation popup to safely remove mods.
+Added 📂 OPEN FOLDER button to quickly access the active mods folder via Windows Explorer.
+
+Feature
+Integrated real-time language switching between English and Portuguese across the entire UI.
+
+Improvement
+Enhanced mod state syncing, renaming directories with the _off_ prefix and automatically updating Psych Engine's modsList.txt
+Refined Theme Toggling (Dark/Light mode) to instantly repaint lists, buttons, and sub-panels.
+
+Bugfix
+Fixed executable detection logic when launching custom engine paths.
+v1.2.0
+Addition
+Added dynamic Multi-Engine selection support for Psych Engine, V-Slice, and Codename Engine.
+Added an Engine Version dropdown menu to switch between multiple installed builds of a single engine.
+Added a version banner alert at the bottom to notify when a launcher update is available (Outdated Check).
+Added a live counter displaying total installed mods.
+
+Feature
+Implemented launch argument support for V-Slice engine (-mod <mod_name>).
+Integrated automatic reading of _polymod_meta.json files to display mod version tags directly in the list.
+
+Adjustment
+Adjusted the mod disabling mechanism to use the folder prefix method (_off_).
+
+Updated the default user interface to a Dark Theme layout.
+
+Improvement
+Improved Psych Engine integration by auto-generating and writing active states to modsList.txt.
+v1.0.0
+Addition
+Initial release of the FNF Multi-Engine Launcher.
+Added initial support for launching standard Friday Night Funkin' executable files.
+Added core GUI window built with Tkinter.
+Added basic mod listing interface to view installed mods.
+Added primary PLAY button to launch default engine executables.
+
+Feature
+Implemented basic mod detection inside the root directory.
+
+Refactor
+Structured initial codebase architecture for future engine and mod management capabilities.
