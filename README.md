@@ -38,12 +38,11 @@ Simply pick your engine, select your mod, and press **Play**!
 To ensure ExtraLauncher operates smoothly, organize your project files as follows:
 
 ```text
-ExtraLauncher/
-├── ExtraLauncher.exe (or launcher.py)
+FNF Multi-Engine/
+├── FNF Multi-Engine.exe (or launcher.py)
 └── data/
     ├── mods_folder/
     │   ├── MyAwesomeMod/
-    │   └── _off_DisabledMod/
     └── executables_mods/
         ├── PsychEngine.exe
         └── VSlice.exe
