@@ -35,7 +35,7 @@ Simply pick your engine, select your mod, and press **Play**!
 
 ## 📂 Folder Structure
 
-To ensure ExtraLauncher operates smoothly, organize your project files as follows:
+To ensure MultiEngine operates smoothly, organize your project files as follows:
 
 ```text
 FNF Multi-Engine/
