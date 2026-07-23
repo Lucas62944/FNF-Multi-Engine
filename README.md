@@ -8,7 +8,7 @@
 ![License](https://img.shields.io/badge/license-MIT-green.svg)
 ![Platform](https://img.shields.io/badge/platform-Windows-lightgrey.svg)
 
-[Features](#-features) • [Installation](#-installation) • [Folder Structure](#-folder-structure) • [How to Use](#-how-to-use) • [Changelog](#-changelog)
+[About](#-about) • [Features](#-features) • [Folder Structure](#-folder-structure)
 
 ---
 
