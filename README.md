@@ -17,7 +17,7 @@
 
 ## 📌 About
 
-**ExtraLauncher** is a universal mod manager and launcher for **Friday Night Funkin'**. Designed to streamline the modding experience, it allows you to effortlessly manage, enable/disable, and launch mods across multiple game engines—such as **Psych Engine**, **V-Slice**, and **Codename Engine**—without the hassle of manually moving files around.
+**ExtraLauncher** is a universal mod manager and launcher for **Friday Night Funkin'**. Designed to streamline the modding experience, it allows you to effortlessly manage, enable/disable, and launch mods across multiple game engines such as **Psych Engine**, **V-Slice**, and **Codename Engine** without the hassle of manually moving files around.
 
 Simply pick your engine, select your mod, and press **Play**!
 
