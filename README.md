@@ -1,7 +1,6 @@
-# FNF-Multi-Engine
 <div align="center">
 
-# 🎤 ExtraLauncher
+# 🎤 Multi Engine
 **A Universal Friday Night Funkin' Multi-Engine Mod Manager & Launcher**
 
 ![Version](https://img.shields.io/badge/version-1.3.0-blue.svg)
